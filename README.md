@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho como programador freelancer/autonomo com C#, .Net, .Net Core
-- 🌱 Estudadndo ASPNet Core
+- 🌱 Estudadndo ASPNet Core e microserviços
 
 <div align="center">
   <a href="https://github.com/robertsousa">
