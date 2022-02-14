@@ -4,6 +4,8 @@
 
 - 🔭 Hoje trabalho como programador freelancer/autonomo com C#, .Net, .Net Core
 - 🌱 Estudadndo ASPNet Core e microserviços
+- 🌱 Formado em Analise e desevolvimento de sistemas pela BrazCubas
+- 🌱 Estudando 2° ano de Engenharia de Software na Unicesumar 
 
 <div align="center">
   <a href="https://github.com/robertsousa">
@@ -22,4 +24,16 @@
   <a href="https://www.linkedin.com/in/robertsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ##
+ ##
+  
+ ## Cursos Extras </br>
+ ### TreinaWeb </br>
+  - C# .NET Avançado </br>
+  - C# ADO.Net Avançado </br>
+  - C# EntityFramework e linq avançado </br>
+ ### Udemy
+  - Design de interface
+  - C# Completo
+  - Desenvolvimento WEB
+  - Arquitetura de Microserviços com ASP.NET 6 e C#
+  
