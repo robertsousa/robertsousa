@@ -4,8 +4,10 @@
 
 - 🔭 Hoje trabalho como programador freelancer/autonomo com C#, .Net, .Net Core
 - 🌱 Estudadndo ASPNet Core e microserviços
-- 🌱 Formado em Analise e desevolvimento de sistemas pela BrazCubas
-- 🌱 Estudando 2° ano de Engenharia de Software na Unicesumar 
+- 🌱 Formado em Analise e desevolvimento de sistemas pela BrazCubas - 2017-2019
+- 🌱 Cursando 2° ano de Engenharia de Software na Unicesumar - 2021-2025
+
+##
 
 <div align="center">
   <a href="https://github.com/robertsousa">
